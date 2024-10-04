@@ -1,5 +1,5 @@
 module.exports = {
-  src_folders: ['/Users/shashankkumar/Desktop/pro2/step_definitions/searchProductSteps.js', '/Users/shashankkumar/Desktop/pro2/step_definitions/hooks.js'],
+  src_folders: ['path to step_definitions', 'path to hooks.js'],
   page_objects_path: '',
   custom_commands_path: '',
   custom_assertions_path: '',
