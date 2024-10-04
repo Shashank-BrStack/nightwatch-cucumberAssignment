@@ -5,4 +5,3 @@
         export BROWSERSTACK_USER=YOUR_USER_NAME
         export BROWSERSTACK_KEY=YOUR_ACCESS_KEY
     - run 'npm run test' 
-# nightwatch-cucumberAssignment
